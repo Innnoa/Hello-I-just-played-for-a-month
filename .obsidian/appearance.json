@@ -1,0 +1,14 @@
+{
+  "baseFontSizeAction": true,
+  "baseFontSize": 24,
+  "nativeMenus": true,
+  "cssTheme": "Obsidian gruvbox",
+  "accentColor": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "霞鹜文楷等宽",
+  "textFontFamily": "霞鹜文楷等宽",
+  "monospaceFontFamily": "Maple Mono NF CN",
+  "enabledCssSnippets": [
+    "demo"
+  ]
+}

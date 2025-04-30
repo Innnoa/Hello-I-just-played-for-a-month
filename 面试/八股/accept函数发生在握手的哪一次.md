@@ -1,0 +1,1 @@
+在网络编程中accept发生在三次握手完成以后才会执行,accept是在连接已经完成后才执行,accept的主要作用是获取clientfd

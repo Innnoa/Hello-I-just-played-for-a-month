@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "vimMode": true,
+  "tabSize": 4,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "picture",
+  "spellcheck": false,
+  "autoConvertHtml": false
+}

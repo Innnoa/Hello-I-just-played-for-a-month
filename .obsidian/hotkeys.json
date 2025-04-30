@@ -1,0 +1,58 @@
+{
+  "file-explorer:new-folder": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": [],
+  "obsidian-export-image:export-image-selection": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "editor:insert-link": [],
+  "app:open-help": [],
+  "editor:follow-link": [],
+  "app:open-settings": [],
+  "app:go-back": [],
+  "workspace:close-window": [],
+  "workspace:close": [],
+  "graph:open": [],
+  "editor:toggle-bold": [],
+  "command-palette:open": [],
+  "markdown:toggle-preview": [],
+  "app:go-forward": [],
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-italics": [],
+  "editor:delete-paragraph": [],
+  "file-explorer:new-file": [],
+  "workspace:new-tab": [],
+  "editor:open-search": [],
+  "editor:open-search-replace": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-split": [],
+  "markdown:add-metadata-property": [],
+  "editor:open-link-in-new-window": [],
+  "workspace:undo-close-pane": [],
+  "workspace:goto-last-tab": [],
+  "workspace:next-tab": [],
+  "editor:toggle-comments": [],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-8": [],
+  "workspace:previous-tab": [],
+  "workspace:goto-tab-7": []
+}
